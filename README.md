@@ -2,12 +2,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Ezequiel de Oliveira Santos   
+Matricula: 924244
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print](images/printatv.jpg)
+
+## Print Site
+
+![Prin](images/telasite.jpg)
+
+
 
 
 
